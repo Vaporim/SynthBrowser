@@ -1,2 +1,2 @@
 # SynthBrowser
-SynthBrowser is an open source browser made with the tech chrome uses 
+SynthBrowser is an open source browser made with Chromium (www.chromium.org) 
